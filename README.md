@@ -17,10 +17,10 @@ This project provides a simple **FastAPI** application that predicts the priorit
 ## Installation & Usage
 
 1. Clone the repository
-	```
-	git clone https://github.com/d-komissarchik/todo-api
-	cd todo-api
-	```
+   ```
+   git clone https://github.com/d-komissarchik/todo-api.git
+   cd todo-api
+   ```
 2. **Install dependencies**:
    ```
    pip install -r requirements.txt
